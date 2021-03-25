@@ -1,1 +1,1 @@
-College Kings Translation for PT-BR
+College Kings Translation for PT-BR.
