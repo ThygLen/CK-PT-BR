@@ -1,7 +1,8 @@
-﻿# TODO: Translation updated at 2021-03-11 20:52
+# TODO: Translation updated at 2021-02-26 22:57
 
-translate Portuguese strings:
+translate Portugues strings:
 
     # game/options.rpy:18
     old "College Kings"
     new "College Kings"
+
